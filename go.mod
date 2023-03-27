@@ -3,7 +3,6 @@ module github.com/fajarcandraaa/implement-gRpc-microservice-service-book
 go 1.19
 
 require (
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fajarcandraaa/implement-gRpc-microservice-protobank v0.0.0-20230326191023-2c02b7ead41e
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/go-sql-driver/mysql v1.7.0
